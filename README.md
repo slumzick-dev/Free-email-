@@ -1,28 +1,28 @@
-# 👋 Hi, I'm slumzick-dev
-
-Welcome to my GitHub profile — a place where ideas become code, and code becomes something useful. I'm a passionate developer who loves building practical tools, automations, and projects that solve real problems.
-
----
-
-## 🔭 About Me
-- GitHub: [@slumzick-dev](https://github.com/slumzick-dev)
-- I enjoy building web services, automation scripts, and self-hosted tools.
-- I focus on clean, maintainable code and practical, well-documented projects.
+# FREE EMAIL ACCOUNTS  
+**Release Date:** 21/02/2026  
 
 ---
 
-## 🚀 What I build
-I create:
-- Small-to-medium web apps and APIs
-- Automation and integration scripts
-- Self-hosted tools, personal servers, and deployment configs
-- Useful developer utilities and templates
+## Overview
+This package includes **76 active email accounts** prepared for testing and controlled use.  
+All accounts are verified as **Live** at the time of release.
 
 ---
 
-## 🛠️ Top Skills
-- Languages: JavaScript/TypeScript, Python, Bash
-- Web: Node.js, Express, FastAPI, Next.js
+## Account Status
+- Total Accounts: 76  
+- Condition: Active  
+- Access Method: Webmail (Roundcube)  
+
+---
+
+## Webmail Access
+Login Portal:  
+https://webmail.slumzick.xyz/
+
+---
+
+## Credential Format- Web: Node.js, Express, FastAPI, Next.js
 - DevOps: Docker, GitHub Actions, Nginx, systemd
 - Databases & Storage: PostgreSQL, SQLite
 - Other: REST APIs, automation, CI/CD, testing
